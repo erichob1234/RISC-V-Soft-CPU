@@ -1,4 +1,5 @@
 # RISC-V-Soft-CPU
+Block diagram
 <img width="700" height="550" alt="image" src="https://github.com/user-attachments/assets/71922df3-1e6e-4413-a754-9b2936a570cd" />
 
 ## RTL Viewer
